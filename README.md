@@ -1,4 +1,4 @@
-# Atelier Demo Bot (Discord) 🤖
+# Atelier Demo Bot (Discord) 
 
 A live, multi-feature Discord bot built as a portfolio piece — every slash
 command actually works. It demonstrates the core of what a custom bot client
